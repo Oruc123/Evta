@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "227949116236",
+    "firebase_url": "https://evta-da809.firebaseio.com",
+    "project_id": "evta-da809",
+    "storage_bucket": "evta-da809.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227949116236:android:00bdd31cc975554f2fede9",
+        "android_client_info": {
+          "package_name": "com.evta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227949116236-0qio0cnavitasphq6qp6ssq7j51r11os.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.evta",
+            "certificate_hash": "58af962b5da9d37dc38d605861f14259e886dd41"
+          }
+        },
+        {
+          "client_id": "227949116236-lefln476krqgumsuh7j7pen9p5hm6ir9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.evta",
+            "certificate_hash": "417ca81e92998a1d05f491943820bb42fa50abdf"
+          }
+        },
+        {
+          "client_id": "227949116236-9jva69kkntdm3k0rrch4c87psk9nag26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPBw2zCtmqo-TF0sYpEt5PpbMTg63cTZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227949116236-9jva69kkntdm3k0rrch4c87psk9nag26.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
